@@ -379,7 +379,7 @@ void menu11(){
     printf("                                        |latihan ini dilakukan dengan rutin setiap harinya di  |\n");
     printf("                                        |               pagi atau sore hari :D                 |\n");
     printf("                                        |------------------------------------------------------|\n");
-    system("pause > 0 | echo                                       Klik ENTER Untuk Mengakhiri Program");
+    system("pause > 0 | echo                                                  Klik ENTER Untuk Mengakhiri Program");
     system("cls");
     menu43();
 }
@@ -399,7 +399,7 @@ void menu12(){
     printf("                                        |latihan ini dilakukan dengan rutin setiap harinya di  |\n");
     printf("                                        |               pagi atau sore hari :D                 |\n");
     printf("                                        |------------------------------------------------------|\n");
-    system("pause > 0 | echo                                       Klik ENTER Untuk Mengakhiri Program");
+    system("pause > 0 | echo                                                  Klik ENTER Untuk Mengakhiri Program");
     system("cls");
     menu43();
 }
@@ -419,7 +419,7 @@ void menu13(){
     printf("                                        |latihan ini dilakukan dengan rutin setiap harinya di  |\n");
     printf("                                        |               pagi atau sore hari :D                 |\n");
     printf("                                        |------------------------------------------------------|\n");
-    system("pause > 0 | echo                                       Klik ENTER Untuk Mengakhiri Program");
+    system("pause > 0 | echo                                                  Klik ENTER Untuk Mengakhiri Program");
     system("cls");
     menu43();
 }
@@ -439,7 +439,7 @@ void menu14(){
     printf("                                        |latihan ini dilakukan dengan rutin setiap harinya di  |\n");
     printf("                                        |               pagi atau sore hari :D                 |\n");
     printf("                                        |------------------------------------------------------|\n");
-    system("pause > 0 | echo                                       Klik ENTER Untuk Mengakhiri Program");
+    system("pause > 0 | echo                                                  Klik ENTER Untuk Mengakhiri Program");
     system("cls");
     menu43();
 }
@@ -461,7 +461,7 @@ void menu15(){
     printf("                                        |latihan ini dilakukan dengan rutin setiap harinya di  |\n");
     printf("                                        |               pagi atau sore hari :D                 |\n");
     printf("                                        |------------------------------------------------------|\n");
-    system("pause > 0 | echo                                       Klik ENTER Untuk Mengakhiri Program");
+    system("pause > 0 | echo                                                  Klik ENTER Untuk Mengakhiri Program");
     system("cls");
     menu43();
 }
@@ -483,7 +483,7 @@ void menu16(){
     printf("                                        |latihan ini dilakukan dengan rutin setiap harinya di  |\n");
     printf("                                        |               pagi atau sore hari :D                 |\n");
     printf("                                        |------------------------------------------------------|\n");
-    system("pause > 0 | echo                                       Klik ENTER Untuk Mengakhiri Program");
+   system("pause > 0 | echo                                                  Klik ENTER Untuk Mengakhiri Program");
     system("cls");
     menu43();
 }
@@ -505,7 +505,7 @@ void menu17(){
     printf("                                        |latihan ini dilakukan dengan rutin setiap harinya di  |\n");
     printf("                                        |               pagi atau sore hari :D                 |\n");
     printf("                                        |------------------------------------------------------|\n");
-    system("pause > 0 | echo                                       Klik ENTER Untuk Mengakhiri Program");
+    system("pause > 0 | echo                                                  Klik ENTER Untuk Mengakhiri Program");
     system("cls");
     menu43();
 }
@@ -527,7 +527,7 @@ void menu18(){
     printf("                                        |latihan ini dilakukan dengan rutin setiap harinya di  |\n");
     printf("                                        |               pagi atau sore hari :D                 |\n");
     printf("                                        |------------------------------------------------------|\n");
-    system("pause > 0 | echo                                       Klik ENTER Untuk Mengakhiri Program");
+    system("pause > 0 | echo                                                  Klik ENTER Untuk Mengakhiri Program");
     system("cls");
     menu43();
 }
@@ -551,7 +551,7 @@ void menu19(){
     printf("                                        |latihan ini dilakukan dengan rutin setiap harinya di  |\n");
     printf("                                        |               pagi atau sore hari :D                 |\n");
     printf("                                        |------------------------------------------------------|\n");
-    system("pause > 0 | echo                                       Klik ENTER Untuk Mengakhiri Program");
+    system("pause > 0 | echo                                                  Klik ENTER Untuk Mengakhiri Program");
     system("cls");
     menu43();
 }
@@ -575,7 +575,7 @@ void menu20(){
     printf("                                        |latihan ini dilakukan dengan rutin setiap harinya di  |\n");
     printf("                                        |               pagi atau sore hari :D                 |\n");
     printf("                                        |------------------------------------------------------|\n");
-    system("pause > 0 | echo                                       Klik ENTER Untuk Mengakhiri Program");
+    system("pause > 0 | echo                                                  Klik ENTER Untuk Mengakhiri Program");
     system("cls");
     menu43();
 }
@@ -599,7 +599,7 @@ void menu21(){
     printf("                                        |latihan ini dilakukan dengan rutin setiap harinya di  |\n");
     printf("                                        |               pagi atau sore hari :D                 |\n");
     printf("                                        |------------------------------------------------------|\n");
-    system("pause > 0 | echo                                       Klik ENTER Untuk Mengakhiri Program");
+    system("pause > 0 | echo                                                  Klik ENTER Untuk Mengakhiri Program");
     system("cls");
     menu43();
 }
@@ -623,7 +623,7 @@ void menu22(){
     printf("                                        |latihan ini dilakukan dengan rutin setiap harinya di  |\n");
     printf("                                        |               pagi atau sore hari :D                 |\n");
     printf("                                        |------------------------------------------------------|\n");
-    system("pause > 0 | echo                                       Klik ENTER Untuk Mengakhiri Program");
+    system("pause > 0 | echo                                                  Klik ENTER Untuk Mengakhiri Program");
     system("cls");
     menu43();
 }
@@ -787,7 +787,7 @@ void menu28(){
 }
 void menu29(){
     printf("                                       |==========================================|\n");
-    printf("                                       |      Latihan Sedang Untuk Laki-Laki      |\n");
+    printf("                                       |      Latihan Sedang Untuk Perempuan      |\n");
     printf("                                       |==========================================|\n");
     printf("                                       |           1. Latihan Otot Lengan         |\n");
     printf("                                       |------------------------------------------|\n");
@@ -818,7 +818,7 @@ void menu29(){
 }
 void menu30(){
     printf("                                       |==========================================|\n");
-    printf("                                       |    Latihan Profesional Untuk Laki-Laki   |\n");
+    printf("                                       |    Latihan Profesional Untuk Perempuan   |\n");
     printf("                                       |==========================================|\n");
     printf("                                       |           1. Latihan Otot Lengan         |\n");
     printf("                                       |------------------------------------------|\n");
@@ -863,7 +863,7 @@ void menu31(){
     printf("                                        |latihan ini dilakukan dengan rutin setiap harinya di  |\n");
     printf("                                        |               pagi atau sore hari :D                 |\n");
     printf("                                        |------------------------------------------------------|\n");
-    system("pause > 0 | echo                                       Klik ENTER Untuk Mengakhiri Program");
+    system("pause > 0 | echo                                                  Klik ENTER Untuk Mengakhiri Program");
     system("cls");
     menu43();
 }
@@ -883,7 +883,7 @@ void menu32(){
     printf("                                        |latihan ini dilakukan dengan rutin setiap harinya di  |\n");
     printf("                                        |               pagi atau sore hari :D                 |\n");
     printf("                                        |------------------------------------------------------|\n");
-    system("pause > 0 | echo                                       Klik ENTER Untuk Mengakhiri Program");
+    system("pause > 0 | echo                                                  Klik ENTER Untuk Mengakhiri Program");
     system("cls");
     menu43();
 }
@@ -903,7 +903,7 @@ void menu33(){
     printf("                                        |latihan ini dilakukan dengan rutin setiap harinya di  |\n");
     printf("                                        |               pagi atau sore hari :D                 |\n");
     printf("                                        |------------------------------------------------------|\n");
-    system("pause > 0 | echo                                       Klik ENTER Untuk Mengakhiri Program");
+    system("pause > 0 | echo                                                  Klik ENTER Untuk Mengakhiri Program");
     system("cls");
     menu43();
 }
@@ -923,7 +923,7 @@ void menu34(){
     printf("                                        |latihan ini dilakukan dengan rutin setiap harinya di  |\n");
     printf("                                        |               pagi atau sore hari :D                 |\n");
     printf("                                        |------------------------------------------------------|\n");
-    system("pause > 0 | echo                                       Klik ENTER Untuk Mengakhiri Program");
+    system("pause > 0 | echo                                                  Klik ENTER Untuk Mengakhiri Program");
     system("cls");
     menu43();
 }
@@ -945,7 +945,7 @@ void menu35(){
     printf("                                        |latihan ini dilakukan dengan rutin setiap harinya di  |\n");
     printf("                                        |               pagi atau sore hari :D                 |\n");
     printf("                                        |------------------------------------------------------|\n");
-    system("pause > 0 | echo                                       Klik ENTER Untuk Mengakhiri Program");
+    system("pause > 0 | echo                                                            Klik ENTER Untuk Mengakhiri Program");
     system("cls");
     menu43();
 }
@@ -967,7 +967,7 @@ void menu36(){
     printf("                                        |latihan ini dilakukan dengan rutin setiap harinya di  |\n");
     printf("                                        |               pagi atau sore hari :D                 |\n");
     printf("                                        |------------------------------------------------------|\n");
-    system("pause > 0 | echo                                       Klik ENTER Untuk Mengakhiri Program");
+    system("pause > 0 | echo                                                  Klik ENTER Untuk Mengakhiri Program");
     system("cls");
     menu43();
 }
@@ -989,7 +989,7 @@ void menu37(){
     printf("                                        |latihan ini dilakukan dengan rutin setiap harinya di  |\n");
     printf("                                        |               pagi atau sore hari :D                 |\n");
     printf("                                        |------------------------------------------------------|\n");
-    system("pause > 0 | echo                                       Klik ENTER Untuk Mengakhiri Program");
+   system("pause > 0 | echo                                                  Klik ENTER Untuk Mengakhiri Program");
     system("cls");
     menu43();
 }
@@ -1011,7 +1011,7 @@ void menu38(){
     printf("                                        |latihan ini dilakukan dengan rutin setiap harinya di  |\n");
     printf("                                        |               pagi atau sore hari :D                 |\n");
     printf("                                        |------------------------------------------------------|\n");
-    system("pause > 0 | echo                                       Klik ENTER Untuk Mengakhiri Program");
+    system("pause > 0 | echo                                                  Klik ENTER Untuk Mengakhiri Program");
     system("cls");
     menu43();
 }
@@ -1035,7 +1035,7 @@ void menu39(){
     printf("                                        |latihan ini dilakukan dengan rutin setiap harinya di  |\n");
     printf("                                        |               pagi atau sore hari :D                 |\n");
     printf("                                        |------------------------------------------------------|\n");
-    system("pause > 0 | echo                                       Klik ENTER Untuk Mengakhiri Program");
+    system("pause > 0 | echo                                                  Klik ENTER Untuk Mengakhiri Program");
     system("cls");
     menu43();
 }
@@ -1059,7 +1059,7 @@ void menu40(){
     printf("                                        |latihan ini dilakukan dengan rutin setiap harinya di  |\n");
     printf("                                        |               pagi atau sore hari :D                 |\n");
     printf("                                        |------------------------------------------------------|\n");
-    system("pause > 0 | echo                                       Klik ENTER Untuk Mengakhiri Program");
+    system("pause > 0 | echo                                                  Klik ENTER Untuk Mengakhiri Program");
     system("cls");
     menu43();
 }
@@ -1083,7 +1083,7 @@ void menu41(){
     printf("                                        |latihan ini dilakukan dengan rutin setiap harinya di  |\n");
     printf("                                        |               pagi atau sore hari :D                 |\n");
     printf("                                        |------------------------------------------------------|\n");
-    system("pause > 0 | echo                                       Klik ENTER Untuk Mengakhiri Program");
+    system("pause > 0 | echo                                                  Klik ENTER Untuk Mengakhiri Program");
     system("cls");
     menu43();
 }
@@ -1107,7 +1107,7 @@ void menu42(){
     printf("                                        |latihan ini dilakukan dengan rutin setiap harinya di  |\n");
     printf("                                        |               pagi atau sore hari :D                 |\n");
     printf("                                        |------------------------------------------------------|\n");
-    system("pause > 0 | echo                                       Klik ENTER Untuk Mengakhiri Program");
+    system("pause > 0 | echo                                                  Klik ENTER Untuk Mengakhiri Program");
     system("cls");
     menu43();
 }
@@ -1118,7 +1118,7 @@ void menu43(){
     printf("                                        | Diharapkan  Untuk Meninput Rating Dengan Jujur Untuk |\n");
     printf("                                        |  Membantu Development Dalam Pengembangan Aplikasinya |\n");
     printf("                                        |======================================================|\n\n");
-    system("pause > 0 | echo                                       Klik ENTER Untuk Memberi Rating\n\n");
+    system("pause > 0 | echo                                                   Klik ENTER Untuk Memberi Rating\n\n");
     printf("                                        |======================================================|\n");
     printf("                                        |          Rating Keseluruhan Program Olahraga         |\n");
     printf("                                        |======================================================|\n");
